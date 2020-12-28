@@ -1,5 +1,1 @@
-#exclude everything
-*
-#except whitelist
-!.git*
-!CV_Mroz_Krzysztof.*
+_site
