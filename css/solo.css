@@ -1,7 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);
 
+@media print {
+    html{
+    size: auto;   /* auto is the initial value */ 
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm;
+    }
+    body{
+    margin:0 !important;
+    }
+}
+
 html {
   font: 14px/1.6 'Open Sans', sans-serif;
+  color:red
 }
 
 
