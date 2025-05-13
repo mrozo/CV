@@ -6,7 +6,10 @@ permalink: /
 **Contact**: **[514-185-121](tel:+48514185121)** // **[private@mrozo.pl](mailto:private@mrozo.pl)** // **[mrozo.pl](https://mrozo.pl)**
 
 ## Experience
-* 2021 IV - NOW() - **Senior Embedded developer** at **[Assa Abloy](https://www.assaabloy.com)**.
+* 2024 IX - NOW() - **Senior Embedded developer** at **[Nokia](https://www.nokia.com/)**.
+  - Mostly investigating and fixing bugs in complex BTS software at C level.
+  - **Tech stack**: C, make, git, Linux From Scratch.
+* 2021 IV - 2024 IV - **Senior Embedded developer** at **[Assa Abloy](https://www.assaabloy.com)**.
   - Development of secure communication stack for IOT and firmware update.
   - **Tech stack**: C, cmake, EDHOC, OSCORE, coap, cbor, NRF52/NRF53, Zephyr, freeRTOS, BLE, Node.js, python.
 * 2019 III - 2020 XII - **Embedded Developer** at **[R.S.X./KAYON](https://kayon.eu/)**.
@@ -15,7 +18,7 @@ permalink: /
 * 2016 VII - 2019 II - **Python Developer** at **[ADVA Optical Networking](https://www.adva.com/)**.
   - Developing backend in Tornado, libraries and doing research for other teams to speed up development and testing.
   - **Tech stack**: python, Tornado, robot framework.
-* 2016 I - 2016 VI - **Dveloper** at **SDC** 
+* 2016 I - 2016 VI - **Dveloper** at **SDC**
   - Development of automatic test suite and desktop GUI for microserver.
   - **Tech stack** python, chromium embedded framework, JS, RS485.
 * 2014 XII - 2015 XII - **UEFI BIOS Developer** at **[Intel](https://www.intel.com/)**.
@@ -23,13 +26,13 @@ permalink: /
   - **Tech stack**: C, UEFI.
 * Other side jobs/one offs: **Technician** at **events and concerts** - setting up, taking care of multimedia hardware, few small **web pages**.
 
+<div style="page-break-after: always;"></div>
+
 ## Technical skills
 
 * **Senior**: C programming, OSCORE (Object Security for Constrained RESTful Environments), EDHOC (Ephemeral Diffie-Hellman Over COSE), CoAP, CBOR.
 * **Mid**: zephyr, FreeRTOS, Python, make, cmake, bash, ARM - STM32/NRF52/NRF53, OSCORE, EDHOC, BLE.
-* **Junior/hobby**: - Linux server administration, KiCad, arduino/esp32, PHP, MySQL, FreeCAD.
-
-<div style="page-break-after: always;"></div>
+* **Junior/hobby**: - C++ (I`am learning it right now), Linux server administration, KiCad, arduino/esp32, PHP, MySQL, FreeCAD.
 
 ## Education
  
@@ -46,6 +49,6 @@ permalink: /
 * Spreading technical knowledge and : and conducted dozens of technology related workshops, presentations, hackathon in cooperation wit [Robotics Society Skalp](https://srskalp.pl/), - eg. IOT with rpi zero W at **Woodstock**, IOT workshops using esp32.
 * I am **Linux guy**, in love with UNIX philosophy.
 * Interested in creating whole solutions - starting from electronics, through embedded software all the way up to system/PC/cloud integration.
-* I've been a scout, ice hockey player, rugby player, cat lover and now even 32 year old unofficial member of a [students scientific association of operational oceanography](https://www.facebook.com/OperationalOceanographySocietyUG).
+* I've been a scout, ice hockey player, rugby player, cat lover and now even 32 year old unofficial member of a [students scientific association of operational oceanography](https://www.facebook.com/OperationalOceanographySocietyUG) - working on making it official.
 
 
